@@ -1,4 +1,4 @@
-# ConnectX-Pyton
+# ConnectX-Python
 Displays Software Development Principles
 
 I completed this fun project in order to gain experience with Python. It is
